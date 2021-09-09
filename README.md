@@ -5,6 +5,7 @@ Using the app, you can create posts (consist: image and little commentary).
 2. Update posts 
 3. Delete posts 
 4. Infinity list (when you going the end of the list, it will update your list, if you have new posts) 
+5. Only owner of post can edit or delete post
 
 ---FUTURE--- 
 1. Registration of users 
